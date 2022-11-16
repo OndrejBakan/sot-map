@@ -6,6 +6,10 @@ m = folium.Map(
     max_zoom=10,
     max_bounds=True,
     location=[0, 0],
+    min_lat=-100000,
+    max_lat=100000,
+    min_lon=-100000,
+    max_lon=100000,
     tiles=None, crs='Simple')
 
 with open('storm.json') as file:
@@ -22,6 +26,7 @@ with open('storm.json') as file:
             icon=folium.DivIcon(html=f"<div>{storm_params[0].get('Properties').get('StormType')[idx % 240]}</div>")
         ).add_to(m)
 
-# folium.PolyLine(locations).add_to(m)
+folium.PolyLine(locations).add_to(m)
 
+m.fit_bounds([[-100000, -100000], [100000, 100000]])
 m.save('storm.html')
