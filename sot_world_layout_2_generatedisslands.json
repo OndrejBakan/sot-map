@@ -1,0 +1,2550 @@
+[
+    {
+      "Type": "PrebakedIslandAsset",
+      "Name": "SOT_World_layout_2_GeneratedIslands",
+      "Properties": {
+        "IslandEntries": [
+          {
+            "IslandName": "wsp_feature_discovery_ridge",
+            "IslandType": "EIslandType::Medium",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass WideSeaOfPlunder_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/wideseaofplunder.0"
+            },
+            "IslandBoundsCentre": {
+              "X": -372243.25,
+              "Y": 307080.0,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 29000.0,
+            "IslandTriggerRadius": 54000.0,
+            "IslandSafeZoneRadius": 27360.793,
+            "Rotation": -89.99994,
+            "CompassDirectionIslandCentre": {
+              "X": -360745.5,
+              "Y": 307080.0,
+              "Z": -0.01171875
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "wsp_feature_snake_island",
+            "IslandType": "EIslandType::Small",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass WideSeaOfPlunder_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/wideseaofplunder.0"
+            },
+            "IslandBoundsCentre": {
+              "X": 3710.159,
+              "Y": 236076.25,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 18000.0,
+            "IslandTriggerRadius": 42000.0,
+            "IslandSafeZoneRadius": 26000.0,
+            "Rotation": -44.999996,
+            "CompassDirectionIslandCentre": {
+              "X": 3710.159,
+              "Y": 236076.25,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "wsp_feature_crooks_hollow",
+            "IslandType": "EIslandType::Small",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass WideSeaOfPlunder_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/wideseaofplunder.0"
+            },
+            "IslandBoundsCentre": {
+              "X": 160696.12,
+              "Y": 246717.53,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 15000.0,
+            "IslandTriggerRadius": 40000.0,
+            "IslandSafeZoneRadius": 20250.0,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": 164204.67,
+              "Y": 246717.53,
+              "Z": -0.041015625
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "wsp_feature_thieves_haven",
+            "IslandType": "EIslandType::Medium",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass WideSeaOfPlunder_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/wideseaofplunder.0"
+            },
+            "IslandBoundsCentre": {
+              "X": 104846.39,
+              "Y": 475028.1,
+              "Z": 787.45703
+            },
+            "IslandBoundsRadius": 39572.46,
+            "IslandTriggerRadius": 58000.0,
+            "IslandSafeZoneRadius": 26056.973,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": 107181.33,
+              "Y": 476165.8,
+              "Z": 787.47266
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "wsp_feature_sharkbait_cove",
+            "IslandType": "EIslandType::Medium",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass WideSeaOfPlunder_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/wideseaofplunder.0"
+            },
+            "IslandBoundsCentre": {
+              "X": -178150.23,
+              "Y": 456929.0,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 19000.0,
+            "IslandTriggerRadius": 50000.0,
+            "IslandSafeZoneRadius": 18598.635,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": -178952.48,
+              "Y": 457239.0,
+              "Z": -0.017578125
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "wsp_feature_devils_ridge",
+            "IslandType": "EIslandType::Medium",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass WideSeaOfPlunder_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/wideseaofplunder.0"
+            },
+            "IslandBoundsCentre": {
+              "X": 316828.06,
+              "Y": 446460.8,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 22000.0,
+            "IslandTriggerRadius": 46000.0,
+            "IslandSafeZoneRadius": 22500.0,
+            "Rotation": 67.5,
+            "CompassDirectionIslandCentre": {
+              "X": 326859.7,
+              "Y": 446429.5,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "wsp_feature_plunder_valley",
+            "IslandType": "EIslandType::Medium",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass WideSeaOfPlunder_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/wideseaofplunder.0"
+            },
+            "IslandBoundsCentre": {
+              "X": -239064.0,
+              "Y": 252742.0,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 22000.0,
+            "IslandTriggerRadius": 55000.0,
+            "IslandSafeZoneRadius": 22500.0,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": -239064.0,
+              "Y": 252742.0,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "wsp_resource_island_01_a",
+            "IslandType": "EIslandType::Resource",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass WideSeaOfPlunder_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/wideseaofplunder.0"
+            },
+            "IslandBoundsCentre": {
+              "X": -107300.94,
+              "Y": 240084.14,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 6800.0,
+            "IslandTriggerRadius": 28800.0,
+            "IslandSafeZoneRadius": 15750.0,
+            "Rotation": 44.999992,
+            "CompassDirectionIslandCentre": {
+              "X": -107300.94,
+              "Y": 240084.14,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "wsp_resource_island_01_b",
+            "IslandType": "EIslandType::Resource",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass WideSeaOfPlunder_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/wideseaofplunder.0"
+            },
+            "IslandBoundsCentre": {
+              "X": -90857.0,
+              "Y": 156497.0,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 3800.0,
+            "IslandTriggerRadius": 23000.0,
+            "IslandSafeZoneRadius": 15750.0,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": -90857.0,
+              "Y": 156497.0,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "wsp_resource_island_01_c",
+            "IslandType": "EIslandType::Resource",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass WideSeaOfPlunder_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/wideseaofplunder.0"
+            },
+            "IslandBoundsCentre": {
+              "X": -6018.6104,
+              "Y": 128470.56,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 6000.0,
+            "IslandTriggerRadius": 29000.0,
+            "IslandSafeZoneRadius": 15750.0,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": -6018.6104,
+              "Y": 128470.56,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "wsp_resource_island_01_d",
+            "IslandType": "EIslandType::Resource",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass WideSeaOfPlunder_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/wideseaofplunder.0"
+            },
+            "IslandBoundsCentre": {
+              "X": 78691.0,
+              "Y": 322108.0,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 6000.0,
+            "IslandTriggerRadius": 28000.0,
+            "IslandSafeZoneRadius": 15750.0,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": 78691.0,
+              "Y": 322108.0,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "wsp_resource_island_01_e",
+            "IslandType": "EIslandType::Resource",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass WideSeaOfPlunder_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/wideseaofplunder.0"
+            },
+            "IslandBoundsCentre": {
+              "X": 147362.33,
+              "Y": 368950.25,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 8000.0,
+            "IslandTriggerRadius": 27500.0,
+            "IslandSafeZoneRadius": 13500.0,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": 147362.33,
+              "Y": 368950.25,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "wsp_resource_island_02_a",
+            "IslandType": "EIslandType::Resource",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass WideSeaOfPlunder_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/wideseaofplunder.0"
+            },
+            "IslandBoundsCentre": {
+              "X": -76026.266,
+              "Y": 481662.0,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 7500.0,
+            "IslandTriggerRadius": 32500.0,
+            "IslandSafeZoneRadius": 13500.0,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": -76026.266,
+              "Y": 481662.0,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "wsp_resource_island_02_b",
+            "IslandType": "EIslandType::Fort",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass WideSeaOfPlunder_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/wideseaofplunder.0"
+            },
+            "IslandBoundsCentre": {
+              "X": -139744.88,
+              "Y": 338708.62,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 12000.0,
+            "IslandTriggerRadius": 32000.0,
+            "IslandSafeZoneRadius": 15000.0,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": -139744.88,
+              "Y": 338708.62,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FortPetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_fortpetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "bsp_feature_crescent_cove",
+            "IslandType": "EIslandType::Medium",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass BlueSeaOfPlenty_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/blueseaofplenty.0"
+            },
+            "IslandBoundsCentre": {
+              "X": -250955.73,
+              "Y": -102819.375,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 21000.0,
+            "IslandTriggerRadius": 44000.0,
+            "IslandSafeZoneRadius": 27200.0,
+            "Rotation": 157.49994,
+            "CompassDirectionIslandCentre": {
+              "X": -245657.03,
+              "Y": -96725.96,
+              "Z": -0.02734375
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "bsp_feature_crescent_island",
+            "IslandType": "EIslandType::Small",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass BlueSeaOfPlenty_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/blueseaofplenty.0"
+            },
+            "IslandBoundsCentre": {
+              "X": -501376.78,
+              "Y": -129283.305,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 15500.0,
+            "IslandTriggerRadius": 37000.0,
+            "IslandSafeZoneRadius": 30600.0,
+            "Rotation": 44.999992,
+            "CompassDirectionIslandCentre": {
+              "X": -507202.06,
+              "Y": -127216.93,
+              "Z": 0.040039062
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "bsp_feature_lone_cove",
+            "IslandType": "EIslandType::Medium",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass BlueSeaOfPlenty_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/blueseaofplenty.0"
+            },
+            "IslandBoundsCentre": {
+              "X": -156341.84,
+              "Y": -308570.84,
+              "Z": -183.54138
+            },
+            "IslandBoundsRadius": 31739.076,
+            "IslandTriggerRadius": 42000.0,
+            "IslandSafeZoneRadius": 27000.0,
+            "Rotation": -44.999996,
+            "CompassDirectionIslandCentre": {
+              "X": -159268.92,
+              "Y": -308434.7,
+              "Z": -183.54138
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "bsp_feature_mermaids_hideaway",
+            "IslandType": "EIslandType::Medium",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass BlueSeaOfPlenty_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/blueseaofplenty.0"
+            },
+            "IslandBoundsCentre": {
+              "X": -501359.53,
+              "Y": 102282.87,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 13700.0,
+            "IslandTriggerRadius": 36700.0,
+            "IslandSafeZoneRadius": 23000.0,
+            "Rotation": -112.49993,
+            "CompassDirectionIslandCentre": {
+              "X": -501359.53,
+              "Y": 102282.87,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "bsp_feature_sailors_bounty",
+            "IslandType": "EIslandType::Medium",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass BlueSeaOfPlenty_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/blueseaofplenty.0"
+            },
+            "IslandBoundsCentre": {
+              "X": -486828.0,
+              "Y": -404354.22,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 31000.0,
+            "IslandTriggerRadius": 42000.0,
+            "IslandSafeZoneRadius": 32500.0,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": -485398.4,
+              "Y": -399138.84,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "bsp_feature_smugglers_bay",
+            "IslandType": "EIslandType::Large",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass BlueSeaOfPlenty_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/blueseaofplenty.0"
+            },
+            "IslandBoundsCentre": {
+              "X": -304909.25,
+              "Y": -463571.2,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 28100.0,
+            "IslandTriggerRadius": 55100.0,
+            "IslandSafeZoneRadius": 31200.0,
+            "Rotation": -22.5,
+            "CompassDirectionIslandCentre": {
+              "X": -304909.25,
+              "Y": -463571.2,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "bsp_feature_wanderers_archipelago",
+            "IslandType": "EIslandType::Medium",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass BlueSeaOfPlenty_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/blueseaofplenty.0"
+            },
+            "IslandBoundsCentre": {
+              "X": -264858.47,
+              "Y": 60937.06,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 32000.0,
+            "IslandTriggerRadius": 46000.0,
+            "IslandSafeZoneRadius": 31500.0,
+            "Rotation": 67.5,
+            "CompassDirectionIslandCentre": {
+              "X": -267209.28,
+              "Y": 59668.78,
+              "Z": 0.0078125
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "bsp_outpost_1",
+            "IslandType": "EIslandType::Outpost",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass BlueSeaOfPlenty_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/blueseaofplenty.0"
+            },
+            "IslandBoundsCentre": {
+              "X": -298619.62,
+              "Y": -259719.25,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 12600.0,
+            "IslandTriggerRadius": 40600.0,
+            "IslandSafeZoneRadius": 20250.0,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": -298619.62,
+              "Y": -259719.25,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_OutpostPetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_outpostpetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "bsp_outpost_2",
+            "IslandType": "EIslandType::Outpost",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass BlueSeaOfPlenty_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/blueseaofplenty.0"
+            },
+            "IslandBoundsCentre": {
+              "X": -385895.25,
+              "Y": -55757.496,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 20000.0,
+            "IslandTriggerRadius": 38000.0,
+            "IslandSafeZoneRadius": 20250.0,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": -385895.25,
+              "Y": -55757.496,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_OutpostPetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_outpostpetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "wsp_outpost_1",
+            "IslandType": "EIslandType::Outpost",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass WideSeaOfPlunder_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/wideseaofplunder.0"
+            },
+            "IslandBoundsCentre": {
+              "X": -14643.297,
+              "Y": 381227.25,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 12000.0,
+            "IslandTriggerRadius": 36000.0,
+            "IslandSafeZoneRadius": 15750.0,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": -14643.297,
+              "Y": 381227.25,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_OutpostPetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_outpostpetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "wsp_resource_island_02_e",
+            "IslandType": "EIslandType::Resource",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass WideSeaOfPlunder_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/wideseaofplunder.0"
+            },
+            "IslandBoundsCentre": {
+              "X": 276256.4,
+              "Y": 231692.69,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 6000.0,
+            "IslandTriggerRadius": 31000.0,
+            "IslandSafeZoneRadius": 10400.0,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": 276256.4,
+              "Y": 231692.69,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "wsp_resource_island_02_f",
+            "IslandType": "EIslandType::Resource",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass WideSeaOfPlunder_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/wideseaofplunder.0"
+            },
+            "IslandBoundsCentre": {
+              "X": 209908.47,
+              "Y": 445165.1,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 7600.0,
+            "IslandTriggerRadius": 32600.0,
+            "IslandSafeZoneRadius": 12800.0,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": 209908.47,
+              "Y": 445165.1,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "bsp_resource_island_01_a",
+            "IslandType": "EIslandType::Resource",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass BlueSeaOfPlenty_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/blueseaofplenty.0"
+            },
+            "IslandBoundsCentre": {
+              "X": -250696.0,
+              "Y": -369925.0,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 4000.0,
+            "IslandTriggerRadius": 25000.0,
+            "IslandSafeZoneRadius": 13500.0,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": -250696.0,
+              "Y": -369925.0,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "bsp_resource_island_01_b",
+            "IslandType": "EIslandType::Resource",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass BlueSeaOfPlenty_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/blueseaofplenty.0"
+            },
+            "IslandBoundsCentre": {
+              "X": -197952.0,
+              "Y": -449382.0,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 8000.0,
+            "IslandTriggerRadius": 29300.0,
+            "IslandSafeZoneRadius": 15750.0,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": -197952.0,
+              "Y": -449382.0,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "bsp_resource_island_01_c",
+            "IslandType": "EIslandType::Fort",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass BlueSeaOfPlenty_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/blueseaofplenty.0"
+            },
+            "IslandBoundsCentre": {
+              "X": -440567.0,
+              "Y": -285532.0,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 9200.0,
+            "IslandTriggerRadius": 32000.0,
+            "IslandSafeZoneRadius": 15750.0,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": -440567.0,
+              "Y": -285532.0,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FortPetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_fortpetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "bsp_resource_island_01_d",
+            "IslandType": "EIslandType::Fort",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass BlueSeaOfPlenty_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/blueseaofplenty.0"
+            },
+            "IslandBoundsCentre": {
+              "X": -350881.0,
+              "Y": 160155.0,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 11000.0,
+            "IslandTriggerRadius": 34000.0,
+            "IslandSafeZoneRadius": 13500.0,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": -350881.0,
+              "Y": 160155.0,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FortPetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_fortpetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "bsp_resource_island_01_e",
+            "IslandType": "EIslandType::Resource",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass BlueSeaOfPlenty_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/blueseaofplenty.0"
+            },
+            "IslandBoundsCentre": {
+              "X": -176554.0,
+              "Y": -12743.0,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 6300.0,
+            "IslandTriggerRadius": 29000.0,
+            "IslandSafeZoneRadius": 15750.0,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": -176554.0,
+              "Y": -12743.0,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "bsp_resource_island_02_a",
+            "IslandType": "EIslandType::Resource",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass BlueSeaOfPlenty_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/blueseaofplenty.0"
+            },
+            "IslandBoundsCentre": {
+              "X": -139030.23,
+              "Y": -118332.875,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 9000.0,
+            "IslandTriggerRadius": 32000.0,
+            "IslandSafeZoneRadius": 15750.0,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": -139030.23,
+              "Y": -118332.875,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "bsp_resource_island_02_b",
+            "IslandType": "EIslandType::Resource",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass BlueSeaOfPlenty_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/blueseaofplenty.0"
+            },
+            "IslandBoundsCentre": {
+              "X": -377984.28,
+              "Y": -377711.0,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 7800.0,
+            "IslandTriggerRadius": 29800.0,
+            "IslandSafeZoneRadius": 15750.0,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": -377984.28,
+              "Y": -377711.0,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "bsp_resource_island_02_c",
+            "IslandType": "EIslandType::Resource",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass BlueSeaOfPlenty_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/blueseaofplenty.0"
+            },
+            "IslandBoundsCentre": {
+              "X": -197566.95,
+              "Y": -202424.12,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 5800.0,
+            "IslandTriggerRadius": 27800.0,
+            "IslandSafeZoneRadius": 15750.0,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": -197566.95,
+              "Y": -202424.12,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "bsp_resource_island_02_d",
+            "IslandType": "EIslandType::Resource",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass BlueSeaOfPlenty_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/blueseaofplenty.0"
+            },
+            "IslandBoundsCentre": {
+              "X": -396741.97,
+              "Y": -184713.0,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 6700.0,
+            "IslandTriggerRadius": 27700.0,
+            "IslandSafeZoneRadius": 15750.0,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": -396741.97,
+              "Y": -184713.0,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "bsp_resource_island_02_e",
+            "IslandType": "EIslandType::Resource",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass BlueSeaOfPlenty_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/blueseaofplenty.0"
+            },
+            "IslandBoundsCentre": {
+              "X": -495383.22,
+              "Y": -10842.273,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 4200.0,
+            "IslandTriggerRadius": 27200.0,
+            "IslandSafeZoneRadius": 15750.0,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": -495383.22,
+              "Y": -10842.273,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "wld_feature_arches",
+            "IslandType": "EIslandType::Small",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass TheWilds_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/thewilds.0"
+            },
+            "IslandBoundsCentre": {
+              "X": 381113.88,
+              "Y": -458711.53,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 17000.0,
+            "IslandTriggerRadius": 41000.0,
+            "IslandSafeZoneRadius": 20250.0,
+            "Rotation": -67.5,
+            "CompassDirectionIslandCentre": {
+              "X": 381113.88,
+              "Y": -458711.53,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FortPetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_fortpetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "wld_feature_cavern_isle",
+            "IslandType": "EIslandType::Small",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass TheWilds_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/thewilds.0"
+            },
+            "IslandBoundsCentre": {
+              "X": 298452.03,
+              "Y": -231815.97,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 12750.0,
+            "IslandTriggerRadius": 42750.0,
+            "IslandSafeZoneRadius": 20250.0,
+            "Rotation": 112.49994,
+            "CompassDirectionIslandCentre": {
+              "X": 299200.0,
+              "Y": -234357.36,
+              "Z": -0.01953125
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "wld_feature_dragons_breath",
+            "IslandType": "EIslandType::Medium",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass TheWilds_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/thewilds.0"
+            },
+            "IslandBoundsCentre": {
+              "X": 445872.0,
+              "Y": 63925.0,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 27000.0,
+            "IslandTriggerRadius": 47000.0,
+            "IslandSafeZoneRadius": 33750.0,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": 444725.06,
+              "Y": 61308.992,
+              "Z": 0.04296875
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "wld_feature_old_faithful",
+            "IslandType": "EIslandType::Large",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass TheWilds_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/thewilds.0"
+            },
+            "IslandBoundsCentre": {
+              "X": 164470.78,
+              "Y": -407145.0,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 27500.0,
+            "IslandTriggerRadius": 56500.0,
+            "IslandSafeZoneRadius": 33750.0,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": 164470.78,
+              "Y": -407145.0,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "wld_feature_three_peaks",
+            "IslandType": "EIslandType::Small",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass TheWilds_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/thewilds.0"
+            },
+            "IslandBoundsCentre": {
+              "X": 270684.1,
+              "Y": -19039.541,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 15200.0,
+            "IslandTriggerRadius": 48200.0,
+            "IslandSafeZoneRadius": 15750.0,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": 269004.88,
+              "Y": -18030.293,
+              "Z": -0.0390625
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "wld_feature_shipwreck_bay",
+            "IslandType": "EIslandType::Small",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass TheWilds_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/thewilds.0"
+            },
+            "IslandBoundsCentre": {
+              "X": 136004.33,
+              "Y": -64544.55,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 21000.0,
+            "IslandTriggerRadius": 46000.0,
+            "IslandSafeZoneRadius": 28000.0,
+            "Rotation": -22.5,
+            "CompassDirectionIslandCentre": {
+              "X": 139255.05,
+              "Y": -64565.305,
+              "Z": -0.00390625
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "wld_outpost_1",
+            "IslandType": "EIslandType::Outpost",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass TheWilds_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/thewilds.0"
+            },
+            "IslandBoundsCentre": {
+              "X": 156150.56,
+              "Y": -217457.86,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 20000.0,
+            "IslandTriggerRadius": 40000.0,
+            "IslandSafeZoneRadius": 20250.0,
+            "Rotation": 44.999992,
+            "CompassDirectionIslandCentre": {
+              "X": 156150.56,
+              "Y": -217457.86,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_OutpostPetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_outpostpetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "wld_resource_island_01_a",
+            "IslandType": "EIslandType::Fort",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass TheWilds_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/thewilds.0"
+            },
+            "IslandBoundsCentre": {
+              "X": 309073.84,
+              "Y": -360599.53,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 9500.0,
+            "IslandTriggerRadius": 27100.0,
+            "IslandSafeZoneRadius": 13500.0,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": 309073.84,
+              "Y": -360599.53,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FortPetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_fortpetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "wld_resource_island_01_b",
+            "IslandType": "EIslandType::Resource",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass TheWilds_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/thewilds.0"
+            },
+            "IslandBoundsCentre": {
+              "X": 269543.84,
+              "Y": -450469.03,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 4700.0,
+            "IslandTriggerRadius": 22700.0,
+            "IslandSafeZoneRadius": 13500.0,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": 269543.84,
+              "Y": -450469.03,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "wld_resource_island_01_c",
+            "IslandType": "EIslandType::Resource",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass TheWilds_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/thewilds.0"
+            },
+            "IslandBoundsCentre": {
+              "X": 387388.6,
+              "Y": -304504.0,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 6500.0,
+            "IslandTriggerRadius": 29500.0,
+            "IslandSafeZoneRadius": 6250.0,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": 387388.6,
+              "Y": -304504.0,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "wld_resource_island_01_d",
+            "IslandType": "EIslandType::Resource",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass TheWilds_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/thewilds.0"
+            },
+            "IslandBoundsCentre": {
+              "X": 223967.75,
+              "Y": -313834.0,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 5500.0,
+            "IslandTriggerRadius": 25500.0,
+            "IslandSafeZoneRadius": 13500.0,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": 223967.75,
+              "Y": -313834.0,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "wld_resource_island_01_e",
+            "IslandType": "EIslandType::Fort",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass TheWilds_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/thewilds.0"
+            },
+            "IslandBoundsCentre": {
+              "X": 337646.06,
+              "Y": -117640.0,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 9200.0,
+            "IslandTriggerRadius": 26300.0,
+            "IslandSafeZoneRadius": 13500.0,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": 337646.06,
+              "Y": -117640.0,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FortPetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_fortpetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "wld_resource_island_02_a",
+            "IslandType": "EIslandType::Fort",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass TheWilds_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/thewilds.0"
+            },
+            "IslandBoundsCentre": {
+              "X": 67261.0,
+              "Y": -317140.0,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 9200.0,
+            "IslandTriggerRadius": 26000.0,
+            "IslandSafeZoneRadius": 13500.0,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": 67261.0,
+              "Y": -317140.0,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FortPetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_fortpetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "wld_resource_island_02_b",
+            "IslandType": "EIslandType::Resource",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass TheWilds_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/thewilds.0"
+            },
+            "IslandBoundsCentre": {
+              "X": 441136.0,
+              "Y": -369130.0,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 4600.0,
+            "IslandTriggerRadius": 25000.0,
+            "IslandSafeZoneRadius": 13500.0,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": 441136.0,
+              "Y": -369130.0,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "wld_resource_island_02_c",
+            "IslandType": "EIslandType::Resource",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass TheWilds_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/thewilds.0"
+            },
+            "IslandBoundsCentre": {
+              "X": 241620.0,
+              "Y": -136891.0,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 5500.0,
+            "IslandTriggerRadius": 23000.0,
+            "IslandSafeZoneRadius": 13500.0,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": 241620.0,
+              "Y": -136891.0,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "wld_resource_island_02_d",
+            "IslandType": "EIslandType::Resource",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass TheWilds_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/thewilds.0"
+            },
+            "IslandBoundsCentre": {
+              "X": 429446.0,
+              "Y": -88665.0,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 6300.0,
+            "IslandTriggerRadius": 26000.0,
+            "IslandSafeZoneRadius": 13500.0,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": 429446.0,
+              "Y": -88665.0,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "wld_resource_island_02_e",
+            "IslandType": "EIslandType::Resource",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass TheWilds_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/thewilds.0"
+            },
+            "IslandBoundsCentre": {
+              "X": 375737.0,
+              "Y": -23196.0,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 5500.0,
+            "IslandTriggerRadius": 25000.0,
+            "IslandSafeZoneRadius": 13500.0,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": 375737.0,
+              "Y": -23196.0,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "wsp_resource_island_01_f",
+            "IslandType": "EIslandType::Resource",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass WideSeaOfPlunder_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/wideseaofplunder.0"
+            },
+            "IslandBoundsCentre": {
+              "X": 4667.0,
+              "Y": 512592.0,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 5500.0,
+            "IslandTriggerRadius": 30500.0,
+            "IslandSafeZoneRadius": 18000.0,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": 4667.0,
+              "Y": 512592.0,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "bsp_resource_island_01_f",
+            "IslandType": "EIslandType::Fort",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass BlueSeaOfPlenty_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/blueseaofplenty.0"
+            },
+            "IslandBoundsCentre": {
+              "X": -94053.37,
+              "Y": -205139.06,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 15000.0,
+            "IslandTriggerRadius": 34300.0,
+            "IslandSafeZoneRadius": 15750.0,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": -94053.37,
+              "Y": -205139.06,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FortPetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_fortpetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "bsp_resource_island_02_f",
+            "IslandType": "EIslandType::Resource",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass BlueSeaOfPlenty_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/blueseaofplenty.0"
+            },
+            "IslandBoundsCentre": {
+              "X": -396130.7,
+              "Y": 59934.797,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 5700.0,
+            "IslandTriggerRadius": 29700.0,
+            "IslandSafeZoneRadius": 15750.0,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": -396130.7,
+              "Y": 59934.797,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "wsp_resource_island_02_d",
+            "IslandType": "EIslandType::FortOfTheDamned",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass WideSeaOfPlunder_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/wideseaofplunder.0"
+            },
+            "IslandBoundsCentre": {
+              "X": 95732.63,
+              "Y": 155303.39,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 9000.0,
+            "IslandTriggerRadius": 32000.0,
+            "IslandSafeZoneRadius": 11669.7295,
+            "Rotation": 67.5,
+            "CompassDirectionIslandCentre": {
+              "X": 95732.63,
+              "Y": 155303.39,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FortPetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_fortpetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "wsp_resource_island_01_g",
+            "IslandType": "EIslandType::Resource",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass WideSeaOfPlunder_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/wideseaofplunder.0"
+            },
+            "IslandBoundsCentre": {
+              "X": -290076.0,
+              "Y": 399488.0,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 5500.0,
+            "IslandTriggerRadius": 30500.0,
+            "IslandSafeZoneRadius": 20000.0,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": -290076.0,
+              "Y": 399488.0,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "wsp_outpost_2",
+            "IslandType": "EIslandType::Outpost",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass WideSeaOfPlunder_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/wideseaofplunder.0"
+            },
+            "IslandBoundsCentre": {
+              "X": 368943.47,
+              "Y": 314692.44,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 10800.0,
+            "IslandTriggerRadius": 33800.0,
+            "IslandSafeZoneRadius": 15750.0,
+            "Rotation": -112.49996,
+            "CompassDirectionIslandCentre": {
+              "X": 368943.47,
+              "Y": 314692.44,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_OutpostPetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_outpostpetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "rfs_feature_01_a",
+            "IslandType": "EIslandType::Reef",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass TheWilds_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/thewilds.0"
+            },
+            "IslandBoundsCentre": {
+              "X": 221811.11,
+              "Y": 114644.4,
+              "Z": 0.01953125
+            },
+            "IslandBoundsRadius": 37000.0,
+            "IslandTriggerRadius": 60000.0,
+            "IslandSafeZoneRadius": 50000.0,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": 221811.11,
+              "Y": 114644.4,
+              "Z": 0.01953125
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "rfs_feature_01_b",
+            "IslandType": "EIslandType::Reef",
+            "Sea": null,
+            "IslandBoundsCentre": {
+              "X": 16984.0,
+              "Y": -140305.0,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 40000.0,
+            "IslandTriggerRadius": 63000.0,
+            "IslandSafeZoneRadius": 45610.297,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": 16984.0,
+              "Y": -140305.0,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "rfs_feature_01_c",
+            "IslandType": "EIslandType::ReapersHideout",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass BlueSeaOfPlenty_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/blueseaofplenty.0"
+            },
+            "IslandBoundsCentre": {
+              "X": -91763.0,
+              "Y": 50368.0,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 58000.0,
+            "IslandTriggerRadius": 81000.0,
+            "IslandSafeZoneRadius": 40178.504,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": -91763.0,
+              "Y": 50368.0,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "wld_resource_island_01_j",
+            "IslandType": "EIslandType::Resource",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass TheWilds_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/thewilds.0"
+            },
+            "IslandBoundsCentre": {
+              "X": 30490.465,
+              "Y": -416240.66,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 7000.0,
+            "IslandTriggerRadius": 32000.0,
+            "IslandSafeZoneRadius": 12635.495,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": 30490.465,
+              "Y": -416240.66,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "wld_resource_island_01_h",
+            "IslandType": "EIslandType::Resource",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass TheWilds_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/thewilds.0"
+            },
+            "IslandBoundsCentre": {
+              "X": 334837.97,
+              "Y": 69160.65,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 5000.0,
+            "IslandTriggerRadius": 28000.0,
+            "IslandSafeZoneRadius": 7953.5435,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": 334837.97,
+              "Y": 69160.65,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "bsp_resource_island_01_i",
+            "IslandType": "EIslandType::Resource",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass BlueSeaOfPlenty_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/blueseaofplenty.0"
+            },
+            "IslandBoundsCentre": {
+              "X": -109068.08,
+              "Y": -408501.62,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 6000.0,
+            "IslandTriggerRadius": 32000.0,
+            "IslandSafeZoneRadius": 15750.0,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": -109068.08,
+              "Y": -408501.62,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "wld_outpost_2",
+            "IslandType": "EIslandType::Outpost",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass TheWilds_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/thewilds.0"
+            },
+            "IslandBoundsCentre": {
+              "X": 445530.0,
+              "Y": -206340.0,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 12000.0,
+            "IslandTriggerRadius": 40000.0,
+            "IslandSafeZoneRadius": 22500.0,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": 445530.0,
+              "Y": -206340.0,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_OutpostPetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_outpostpetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "wld_resource_island_01_k",
+            "IslandType": "EIslandType::Resource",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass TheWilds_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/thewilds.0"
+            },
+            "IslandBoundsCentre": {
+              "X": 498028.9,
+              "Y": -34826.18,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 7000.0,
+            "IslandTriggerRadius": 32000.0,
+            "IslandSafeZoneRadius": 9915.551,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": 498028.9,
+              "Y": -34826.18,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "wsp_resource_island_01_h",
+            "IslandType": "EIslandType::Fort",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass WideSeaOfPlunder_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/wideseaofplunder.0"
+            },
+            "IslandBoundsCentre": {
+              "X": 243609.98,
+              "Y": 348295.03,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 11000.0,
+            "IslandTriggerRadius": 29000.0,
+            "IslandSafeZoneRadius": 15750.0,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": 243609.98,
+              "Y": 348295.03,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FortPetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_fortpetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "dvr_resource_island_01_i",
+            "IslandType": "EIslandType::Resource",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass DevilsRoar_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/devilsroar.0"
+            },
+            "IslandBoundsCentre": {
+              "X": 877442.0,
+              "Y": 512347.0,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 6000.0,
+            "IslandTriggerRadius": 29000.0,
+            "IslandSafeZoneRadius": 13500.0,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": 877442.0,
+              "Y": 512347.0,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "dvr_resource_island_01_h",
+            "IslandType": "EIslandType::Resource",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass DevilsRoar_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/devilsroar.0"
+            },
+            "IslandBoundsCentre": {
+              "X": 833102.0,
+              "Y": 393447.0,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 6000.0,
+            "IslandTriggerRadius": 29000.0,
+            "IslandSafeZoneRadius": 13500.0,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": 833102.0,
+              "Y": 393447.0,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "dvr_resource_island_01_g",
+            "IslandType": "EIslandType::Resource",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass DevilsRoar_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/devilsroar.0"
+            },
+            "IslandBoundsCentre": {
+              "X": 698165.0,
+              "Y": 455469.0,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 5000.0,
+            "IslandTriggerRadius": 28000.0,
+            "IslandSafeZoneRadius": 13500.0,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": 698165.0,
+              "Y": 455469.0,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "dvr_resource_island_01_f",
+            "IslandType": "EIslandType::Resource",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass DevilsRoar_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/devilsroar.0"
+            },
+            "IslandBoundsCentre": {
+              "X": 609259.0,
+              "Y": 561009.0,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 5000.0,
+            "IslandTriggerRadius": 28000.0,
+            "IslandSafeZoneRadius": 13500.0,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": 609259.0,
+              "Y": 561009.0,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "dvr_resource_island_01_e",
+            "IslandType": "EIslandType::Resource",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass DevilsRoar_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/devilsroar.0"
+            },
+            "IslandBoundsCentre": {
+              "X": 939536.0,
+              "Y": 402742.0,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 5000.0,
+            "IslandTriggerRadius": 28000.0,
+            "IslandSafeZoneRadius": 13500.0,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": 939536.0,
+              "Y": 402742.0,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "dvr_resource_island_01_d",
+            "IslandType": "EIslandType::Resource",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass DevilsRoar_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/devilsroar.0"
+            },
+            "IslandBoundsCentre": {
+              "X": 595182.0,
+              "Y": 259626.0,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 6000.0,
+            "IslandTriggerRadius": 29000.0,
+            "IslandSafeZoneRadius": 13500.0,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": 595182.0,
+              "Y": 259626.0,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "dvr_resource_island_01_c",
+            "IslandType": "EIslandType::Resource",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass DevilsRoar_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/devilsroar.0"
+            },
+            "IslandBoundsCentre": {
+              "X": 625073.0,
+              "Y": 155520.0,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 6000.0,
+            "IslandTriggerRadius": 29000.0,
+            "IslandSafeZoneRadius": 13500.0,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": 625073.0,
+              "Y": 155520.0,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "dvr_resource_island_01_b",
+            "IslandType": "EIslandType::Resource",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass DevilsRoar_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/devilsroar.0"
+            },
+            "IslandBoundsCentre": {
+              "X": 837674.0,
+              "Y": 94905.0,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 4500.0,
+            "IslandTriggerRadius": 27500.0,
+            "IslandSafeZoneRadius": 13500.0,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": 837674.0,
+              "Y": 94905.0,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "dvr_resource_island_01_a",
+            "IslandType": "EIslandType::Resource",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass DevilsRoar_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/devilsroar.0"
+            },
+            "IslandBoundsCentre": {
+              "X": 787938.56,
+              "Y": -34994.0,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 9000.0,
+            "IslandTriggerRadius": 32000.0,
+            "IslandSafeZoneRadius": 13500.0,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": 787938.56,
+              "Y": -34994.0,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "dvr_outpost_1",
+            "IslandType": "EIslandType::Outpost",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass DevilsRoar_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/devilsroar.0"
+            },
+            "IslandBoundsCentre": {
+              "X": 693052.0,
+              "Y": 322523.0,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 17000.0,
+            "IslandTriggerRadius": 40000.0,
+            "IslandSafeZoneRadius": 30600.0,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": 693052.0,
+              "Y": 322523.0,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_OutpostPetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_outpostpetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "dvr_feature_island_01_e",
+            "IslandType": "EIslandType::Medium",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass DevilsRoar_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/devilsroar.0"
+            },
+            "IslandBoundsCentre": {
+              "X": 667211.56,
+              "Y": 655842.0,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 18000.0,
+            "IslandTriggerRadius": 41000.0,
+            "IslandSafeZoneRadius": 30600.0,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": 666001.94,
+              "Y": 655002.4,
+              "Z": 0.0234375
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "dvr_feature_island_01_d",
+            "IslandType": "EIslandType::Medium",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass DevilsRoar_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/devilsroar.0"
+            },
+            "IslandBoundsCentre": {
+              "X": 753368.56,
+              "Y": 547245.0,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 17000.0,
+            "IslandTriggerRadius": 40000.0,
+            "IslandSafeZoneRadius": 30600.0,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": 757019.9,
+              "Y": 547245.0,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "dvr_feature_island_01_c",
+            "IslandType": "EIslandType::Medium",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass DevilsRoar_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/devilsroar.0"
+            },
+            "IslandBoundsCentre": {
+              "X": 860100.0,
+              "Y": 264678.0,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 15000.0,
+            "IslandTriggerRadius": 38000.0,
+            "IslandSafeZoneRadius": 30600.0,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": 860100.0,
+              "Y": 266020.75,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "dvr_feature_island_01_b",
+            "IslandType": "EIslandType::Medium",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass DevilsRoar_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/devilsroar.0"
+            },
+            "IslandBoundsCentre": {
+              "X": 742670.56,
+              "Y": 176602.0,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 18000.0,
+            "IslandTriggerRadius": 41000.0,
+            "IslandSafeZoneRadius": 30600.0,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": 739773.6,
+              "Y": 176602.0,
+              "Z": -0.00390625
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "dvr_feature_island_01_a",
+            "IslandType": "EIslandType::Medium",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass DevilsRoar_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/devilsroar.0"
+            },
+            "IslandBoundsCentre": {
+              "X": 682992.56,
+              "Y": 27869.0,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 19000.0,
+            "IslandTriggerRadius": 42000.0,
+            "IslandSafeZoneRadius": 30600.0,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": 682992.56,
+              "Y": 29976.383,
+              "Z": 0.0078125
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "dvr_seapost_01_a",
+            "IslandType": "EIslandType::SeaPost",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass DevilsRoar_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/devilsroar.0"
+            },
+            "IslandBoundsCentre": {
+              "X": 608149.4,
+              "Y": 471899.75,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 4400.0,
+            "IslandTriggerRadius": 25000.0,
+            "IslandSafeZoneRadius": 20250.0,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": 608149.4,
+              "Y": 471899.75,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_OutpostPetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_outpostpetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "bsp_seapost_01_a",
+            "IslandType": "EIslandType::SeaPost",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass BlueSeaOfPlenty_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/blueseaofplenty.0"
+            },
+            "IslandBoundsCentre": {
+              "X": -500547.97,
+              "Y": -243067.8,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 4400.0,
+            "IslandTriggerRadius": 25000.0,
+            "IslandSafeZoneRadius": 20250.0,
+            "Rotation": 44.999992,
+            "CompassDirectionIslandCentre": {
+              "X": -500547.97,
+              "Y": -243067.8,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_OutpostPetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_outpostpetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "wld_seapost_01_a",
+            "IslandType": "EIslandType::SeaPost",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass TheWilds_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/thewilds.0"
+            },
+            "IslandBoundsCentre": {
+              "X": 266183.25,
+              "Y": -397093.62,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 4800.0,
+            "IslandTriggerRadius": 25000.0,
+            "IslandSafeZoneRadius": 20250.0,
+            "Rotation": 89.99996,
+            "CompassDirectionIslandCentre": {
+              "X": 266183.25,
+              "Y": -397093.62,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_OutpostPetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_outpostpetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "wsp_seapost_01_a",
+            "IslandType": "EIslandType::SeaPost",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass WideSeaOfPlunder_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/wideseaofplunder.0"
+            },
+            "IslandBoundsCentre": {
+              "X": 70916.22,
+              "Y": 234798.38,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 4400.0,
+            "IslandTriggerRadius": 25000.0,
+            "IslandSafeZoneRadius": 20250.0,
+            "Rotation": 89.999954,
+            "CompassDirectionIslandCentre": {
+              "X": 70916.22,
+              "Y": 234798.38,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_OutpostPetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_outpostpetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "bsp_seapost_01_b",
+            "IslandType": "EIslandType::SeaPost",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass BlueSeaOfPlenty_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/blueseaofplenty.0"
+            },
+            "IslandBoundsCentre": {
+              "X": -150115.38,
+              "Y": -63444.75,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 4400.0,
+            "IslandTriggerRadius": 25000.0,
+            "IslandSafeZoneRadius": 20250.0,
+            "Rotation": -179.99995,
+            "CompassDirectionIslandCentre": {
+              "X": -150115.38,
+              "Y": -63444.75,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_OutpostPetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_outpostpetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "wsp_seapost_01_b",
+            "IslandType": "EIslandType::SeaPost",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass WideSeaOfPlunder_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/wideseaofplunder.0"
+            },
+            "IslandBoundsCentre": {
+              "X": -265233.62,
+              "Y": 333644.75,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 4400.0,
+            "IslandTriggerRadius": 25000.0,
+            "IslandSafeZoneRadius": 20250.0,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": -265233.62,
+              "Y": 333644.75,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_OutpostPetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_outpostpetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "wld_seapost_01_b",
+            "IslandType": "EIslandType::SeaPost",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass TheWilds_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/thewilds.0"
+            },
+            "IslandBoundsCentre": {
+              "X": 506639.62,
+              "Y": -102829.75,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 4800.0,
+            "IslandTriggerRadius": 25000.0,
+            "IslandSafeZoneRadius": 20250.0,
+            "Rotation": -179.99995,
+            "CompassDirectionIslandCentre": {
+              "X": 506639.62,
+              "Y": -102829.75,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_OutpostPetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_outpostpetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "dvr_seapost_01_b",
+            "IslandType": "EIslandType::SeaPost",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass DevilsRoar_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/devilsroar.0"
+            },
+            "IslandBoundsCentre": {
+              "X": 847894.25,
+              "Y": 26633.375,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 4400.0,
+            "IslandTriggerRadius": 25000.0,
+            "IslandSafeZoneRadius": 20250.0,
+            "Rotation": 89.999954,
+            "CompassDirectionIslandCentre": {
+              "X": 847894.25,
+              "Y": 26633.375,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_OutpostPetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_outpostpetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "dvr_feature_island_01_f",
+            "IslandType": "EIslandType::Fort",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass DevilsRoar_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/devilsroar.0"
+            },
+            "IslandBoundsCentre": {
+              "X": 919369.0,
+              "Y": 5376.5625,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 17000.0,
+            "IslandTriggerRadius": 40000.0,
+            "IslandSafeZoneRadius": 30600.0,
+            "Rotation": 89.999954,
+            "CompassDirectionIslandCentre": {
+              "X": 919369.0,
+              "Y": 9027.889,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FortPetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_fortpetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "wsp_feature_rome_exterior",
+            "IslandType": "EIslandType::Reef",
+            "Sea": null,
+            "IslandBoundsCentre": {
+              "X": 35123.0,
+              "Y": 13570.0,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 6800.0,
+            "IslandTriggerRadius": 28800.0,
+            "IslandSafeZoneRadius": 15750.0,
+            "Rotation": 0.0,
+            "CompassDirectionIslandCentre": {
+              "X": 35123.0,
+              "Y": 13570.0,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_OutpostPetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_outpostpetmovement.0"
+            },
+            "IslandFeatureNames": []
+          },
+          {
+            "IslandName": "wld_feature_tribute_peak",
+            "IslandType": "EIslandType::Large",
+            "Sea": {
+              "ObjectName": "BlueprintGeneratedClass ShoresOfGold_C",
+              "ObjectPath": "Athena/Content/Blueprints/Seas/shoresofgold.0"
+            },
+            "IslandBoundsCentre": {
+              "X": 866999.0,
+              "Y": -483413.0,
+              "Z": 0.0
+            },
+            "IslandBoundsRadius": 70000.0,
+            "IslandTriggerRadius": 100000.0,
+            "IslandSafeZoneRadius": 95000.0,
+            "Rotation": 67.49988,
+            "CompassDirectionIslandCentre": {
+              "X": 866999.0,
+              "Y": -483413.0,
+              "Z": 0.0
+            },
+            "PetMovementParamsData": {
+              "ObjectName": "AICreatureMovementModifierParamsDataAsset IslandData_FeaturePetMovement",
+              "ObjectPath": "Athena/Content/DataAssets/Island/islanddata_featurepetmovement.0"
+            },
+            "IslandFeatureNames": []
+          }
+        ],
+        "WorldMapMin": {
+          "X": -6200.0,
+          "Y": -6200.0
+        },
+        "WorldMapMax": {
+          "X": 9552.0,
+          "Y": 8600.0
+        }
+      }
+    }
+  ]
