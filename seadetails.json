@@ -1,0 +1,74 @@
+{
+  "SeaDetails": [
+    {
+      "Texture": {
+        "ObjectName": "Texture2D seanameWSP",
+        "ObjectPath": "Athena/Content/Textures/UI/WorldMap/seanamewsp.0"
+      },
+      "Name": {
+        "CultureInvariantString": null
+      },
+      "Location": {
+        "X": 0.0,
+        "Y": 3400.0
+      },
+      "FeatureName": "None"
+    },
+    {
+      "Texture": {
+        "ObjectName": "Texture2D seanameBSP",
+        "ObjectPath": "Athena/Content/Textures/UI/WorldMap/seanamebsp.0"
+      },
+      "Name": {
+        "CultureInvariantString": null
+      },
+      "Location": {
+        "X": -2500.0,
+        "Y": -1700.0
+      },
+      "FeatureName": "None"
+    },
+    {
+      "Texture": {
+        "ObjectName": "Texture2D seanameWLD",
+        "ObjectPath": "Athena/Content/Textures/UI/WorldMap/seanamewld.0"
+      },
+      "Name": {
+        "CultureInvariantString": null
+      },
+      "Location": {
+        "X": 2500.0,
+        "Y": -1700.0
+      },
+      "FeatureName": "None"
+    },
+    {
+      "Texture": {
+        "ObjectName": "Texture2D seanameFS",
+        "ObjectPath": "Athena/Content/Textures/UI/WorldMap/seanamefs.0"
+      },
+      "Name": {
+        "CultureInvariantString": null
+      },
+      "Location": {
+        "X": 7407.0,
+        "Y": 2673.0
+      },
+      "FeatureName": "None"
+    },
+    {
+      "Texture": {
+        "ObjectName": "Texture2D seanameGLD_light",
+        "ObjectPath": "Athena/Content/Textures/UI/WorldMap/seanamegld_light.0"
+      },
+      "Name": {
+        "CultureInvariantString": null
+      },
+      "Location": {
+        "X": 8669.0,
+        "Y": -4834.0
+      },
+      "FeatureName": "None"
+    }
+  ]
+}
